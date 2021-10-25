@@ -1,0 +1,116 @@
+.nab {
+  font-family: "Baloo Bhai 2", cursive;
+  background-color: rgb(211 211 195);
+  border-radius: 400px;
+}
+li {
+  float: left;
+  list-style: none;
+  margin: 10px 66px;
+}
+ul {
+  overflow: auto;
+}
+.nab li a {
+  text-decoration: none;
+  color: black;
+}
+li a:hover {
+  color: white;
+}
+
+input {
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 10px;
+  margin: 0px 8px;
+  cursor: pointer;
+  padding-right: 19px;
+}
+
+body {
+  background: url("https://images.unsplash.com/photo-1571902943202-507ec2618e8f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1400px;
+  margin: 0px;
+  padding: 0px;
+}
+.hat {
+  font-family: font-family "Abril Fatface", cursive;
+  color: #eb9b8f;
+  margin: -73px 456px;
+  text-align: center;
+  font-size: 34px;
+}
+.sam img {
+  padding: 20px 584px;
+  display: inline-block;
+  height: 276px;
+}
+header {
+  text-align: center;
+  position: absolute;
+  position: fixed;
+  top: -9px;
+  width: 839px;
+  margin: 4px 328px;
+}
+.container {
+  font-family: "Baloo Bhai 2", cursive;
+  color: #43429f;
+  border: 15px double rgb(2, 1, 1);
+  width: 37%;
+  margin: 176px 35px;
+  height: auto;
+  text-align: center;
+  font-size: 20px;
+  background-color: #d8d2d2;
+  float: right;
+}
+.form-group input {
+  font-family: "Baloo Bhai 2", cursive;
+  margin: 4px auto;
+  padding: 14px 97px;
+  border: 3px solid black;
+  border-radius: 11px;
+  font-size: 15px;
+}
+.form-group ::placeholder {
+  font-family: "Baloo Bhai 2", cursive;
+  color: black;
+  font-size: 15px;
+  text-align: center;
+}
+.bun {
+  padding: 11px;
+  border-radius: 14px;
+  width: 201px;
+  margin: 37px auto;
+  border: 4px solid;
+  font-size: 23px;
+}
+.img img {
+  width: 400px;
+  /* height: 250px; */
+  margin: 105px 38px;
+}
+.king img {
+  /* height: 250px; */
+  margin: -79px 38px;
+  width: 400px;
+}
+.bed img {
+  /* height: 250px; */
+  margin: 106px 39px;
+  width: 400px;
+}
+#wear img {
+  border: 4px dotted black;
+  display: inline;
+
+  padding: 9px;
+}
+.bun:hover {
+  background-color: rgb(206, 223, 251);
+}
